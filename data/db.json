@@ -1,0 +1,22 @@
+{
+  "opinions": [
+    {
+      "title": "Dark Web",
+      "body": "I think that the deep web gets a bad rep. While it is very true that it contains heaps of illegal and sickening content, it is also capable of some great stuff. During the Egyptian revolution in 2011 when the Internet was pretty much shut off by the government, people used tor and the deep web to communicate with people outside of the country and get their stories across. The deep web also helps people in heavily censored countries such as China to freely roam the Internet. All in all, it is capable of both evil and good.",
+      "author": "Mayur Gupta",
+      "id": 5
+    },
+    {
+      "title": "American Space Program",
+      "body": "NASA depends on the will of the people, as expressed through their senators and representatives and the president, for its funding and direction. NASA has to take the pulse of the American people and obtain its good will. This has not been easy.\n\nNASA had to play \"catch-up\" through much of its first five years, as the Soviets launched one space spectacular after another. It has had to recover America's trust after several fatal accidents and other misfortunes, such as the losses of the Mars Climate Orbiter in 1998 and the Mars Polar Lander in 1999. However, NASA does not work alone. Several space advocacy organizations work at the grassroots level to get people interested in space exploration, urge Congress to provide better funding for NASA, and change the agency's direction. This webpage covers how the American people's opinion of NASA is shaped.",
+      "author": "Viraj Nerlekar",
+      "id": 4
+    },
+    {
+      "title": "India's Population",
+      "body": "In India, our birth rates have certainly moderated since the 70s, and we are just below the replacement rate of 2.1 at 2.0 for the first time. However, because of a huge base population, the numbers will rise by 2050 to nearly 1.70 billion from some 1.4 billion at present.\n\nBy 2070, a further decline in the average birth rate towards 1.0 will see the Indian population actually shrinking at last. The good thing is, about a third of the Indian population is under 35, and this statistic will sustain for the next 15 years, even as the rest of the population ages, with burdensome costs and higher life expectancy.\n\nHowever, providing jobs for many millions is outside the scope of any government in the 21st century. This, more so because of increasing mechanisation that calls for less labour in order to be efficient and competitive. Entrepreneurship, start-ups, self-employment of various kinds, is the only answer, alongside the service industry that accounts for more than 50 per cent of the economy.",
+      "author": "Salman Khan",
+      "id": 3
+    }
+  ]
+}
