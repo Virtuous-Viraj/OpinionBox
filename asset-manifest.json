@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OpinionBox/static/css/main.3abd6786.css",
+    "main.js": "/OpinionBox/static/js/main.c3a6ffd0.js",
+    "static/js/787.aa1371e2.chunk.js": "/OpinionBox/static/js/787.aa1371e2.chunk.js",
+    "index.html": "/OpinionBox/index.html",
+    "main.3abd6786.css.map": "/OpinionBox/static/css/main.3abd6786.css.map",
+    "main.c3a6ffd0.js.map": "/OpinionBox/static/js/main.c3a6ffd0.js.map",
+    "787.aa1371e2.chunk.js.map": "/OpinionBox/static/js/787.aa1371e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3abd6786.css",
+    "static/js/main.c3a6ffd0.js"
+  ]
+}
